@@ -7,3 +7,12 @@ https://cloud.google.com/anthos-config-management/docs/how-to/install-anthos-con
 
 ## ConfigSync
 ## policyController
+
+
+---
+
+
+# OpenSource Choice:    
+https://kpt.dev/gitops/configsync/    
+
+
